@@ -6,6 +6,14 @@ Simple Discord Bot Dashboard Template made using NextJS and TailwindCSS.
 ---
 
 ## Screenshots
+> Sleek stylish and minimalistic design
+![Home Page](https://toxic-is-senpai.wtf/b116e8.png)
+
+> Organized, User-Friendly UI
+![Commands Page](https://toxic-is-senpai.wtf/9539ef.png)
+
+> Beautiful Footer with Font Awesome Support
+![Footer Sample](https://toxic-is-senpai.wtf/51c8d0.png)
 
 ---
 
