@@ -1,0 +1,52 @@
+{
+  "name": "@protect/website",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@chakra-ui/react": "^1.8.1",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-regular-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.17",
+    "@heroicons/react": "^1.0.5",
+    "axios": "^0.24.0",
+    "clsx": "^1.1.1",
+    "bcrypt": "^5.0.1",
+    "dompurify": "^2.3.4",
+    "dotenv": "^15.0.0",
+    "glob": "^7.1.6",
+    "iron-session": "^6.0.5",
+    "mongodb": "^4.3.0",
+    "mathjs": "^9.2.0",
+		"moment": "^2.29.1",
+		"mongoose": "^5.12.3",
+    "next": "12.0.9",
+    "next-auth": "^4.0.6",
+    "next-seo": "^4.28.1",
+    "next-themes": "^0.0.15",
+    "nookies": "^2.5.2",
+    "react": "17.0.2",
+    "react-dom": "17.0.2",
+    "react-toastify": "^8.1.0",
+    "react-table": "^7.7.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/line-clamp": "^0.3.0",
+    "@types/dompurify": "^2.3.2",
+    "@types/node": "17.0.8",
+    "@types/react": "17.0.38",
+    "@types/styled-components": "^5.1.19",
+    "autoprefixer": "^10.4.2",
+    "eslint": "8.6.0",
+    "eslint-config-next": "12.0.7",
+    "postcss": "^8.4.5",
+    "tailwindcss": "^3.0.12",
+    "typescript": "4.5.4"
+  }
+}

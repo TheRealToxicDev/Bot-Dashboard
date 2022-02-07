@@ -1,0 +1,23 @@
+.feature {
+    z-index: 1;
+    box-shadow: 10px black;
+}
+.feature:hover {
+    border-style: solid;
+    border-width: 2px;
+    border-color: #6b46c1;
+    transform: translateY(-10px);
+    transition: 0.2s;
+}
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+    width: 100%;
+}
+.containerText {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
